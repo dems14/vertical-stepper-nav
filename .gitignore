@@ -35,11 +35,11 @@ bower_components
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+#build/Release
 
 # Dependency directories
 node_modules/
-jspm_packages/
+#jspm_packages/
 
 # TypeScript v1 declaration files
 typings/
@@ -73,14 +73,14 @@ typings/
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
-.cache
+#.cache
 
 # Next.js build output
 .next
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+#dist
 
 # Gatsby files
 .cache/
